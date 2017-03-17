@@ -9,6 +9,8 @@ function onProcessStopped() {
 
 export DISPLAY=:0
 
+rm -rf /tmp/.X0-lock /tmp/.X11-unix
+
 Xvfb :0 -screen 0 640x480x24 &
 
 pid_xvfb=$!
