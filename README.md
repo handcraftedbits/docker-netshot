@@ -1,4 +1,4 @@
-# Netshot Docker Container [![Docker Pulls](https://img.shields.io/docker/pulls/handcraftedbits/docker-netshot.svg?maxAge=2592000)](https://hub.docker.com/r/handcraftedbits/netshot)
+# Netshot Docker Container [![Docker Pulls](https://img.shields.io/docker/pulls/handcraftedbits/netshot.svg?maxAge=2592000)](https://hub.docker.com/r/handcraftedbits/netshot)
 
 A [Docker](https://www.docker.com) container used to run a [netshot](https://github.com/handcraftedbits/netshot) server.
 See the [netshot REST API documentation](https://github.com/handcraftedbits/netshot#rest-api) for more information.
